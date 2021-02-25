@@ -9,8 +9,12 @@ tags:
   - test
   - koplo
 ---
+![gambar semelekete](/img/blog-index.jpg "ini gambar kopi")
+
+<center>ini anu gambarnya</center>
+
+<br/>
+
 Semelekete melakukan posting tanpa gambar.
-
-
 
 Dan inilah hasilnya
